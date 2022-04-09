@@ -2,7 +2,9 @@
 
 <p align = "center">
 <img src = "Images/keypoints.png"> 
+<width="375" height="223">
 </p>
 <p align = "center">
 Fig 1: Keypoints and Landmarks
 </p>
+
