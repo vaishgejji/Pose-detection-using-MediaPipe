@@ -1,1 +1,1 @@
-# Pose_detection_using_MediaPipe
+# Poses and landmarks using MediaPipe Holistic
